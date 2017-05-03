@@ -45,5 +45,5 @@ In this assignment, we will implement the modern version of `Horn-Schunck method
 * [Horn–Schunck method][ref1]
 
 
-----------------------------------------------------------
+------------------------------------------------
 [ref1]:https://en.wikipedia.org/wiki/Horn%E2%80%93Schunck_method "ref1"
