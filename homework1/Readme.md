@@ -21,8 +21,10 @@ This is the solution for the homework1 of ENGG5104-computer vision.
 3. Quantization: Using a predefined quantization matrix to control compression ratio. Define Q as the quantization matrix. The quantized DCT coefficient are computed as <br />
 ![formular](./misc/showpic/1.png "1.png") <br />
 4. Decoding: decode using inverse discrete cosine transform (inverse DCT) from the quantized DCT coefficients $B_{ij}$.
+
 ### Reference: 
-<http://en.wikipedia.org/wiki/JPEG> <br />
+* <http://en.wikipedia.org/wiki/JPEG>
+* [Image Compression and the Discrete Cosine Transform][ref1]
 
 ### Example result: 
 ![Example](./result/Compression.png "result")
@@ -42,3 +44,10 @@ This is the solution for the homework1 of ENGG5104-computer vision.
 ****
 ## Bilateral Filter
 <!-- --------------------------------------- -->
+
+
+
+
+
+---------------------------------------------------------
+[ref1]:https://www.math.cuhk.edu.hk/~lmlui/dct.pdf "ref1"
