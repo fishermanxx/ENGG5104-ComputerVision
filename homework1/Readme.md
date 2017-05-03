@@ -7,7 +7,7 @@ This is the solution for the homework1 of ENGG5104-computer vision.
 * [Richardson-Lucy Deconvolution](#richardson-lucy deconvolution)
 * [Harris Corner Detection](#harris corner detection)
 * [Bilateral Filter](#bilateral filter)
-
+* [Readme](#readme)
 
 ****
 ## Image compression
