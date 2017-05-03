@@ -30,8 +30,8 @@ This is the solution for the homework1 of ENGG5104-computer vision.
 ****
 ## **Richardson-Lucy Deconvolution**
 <!-- --------------------------------------- -->
-	Richardson-Lucy algorithm is an *iterative* procedure for recovering a latent image that 
-	has been blurred by a known **point spread function(PSF)**
+	Richardson-Lucy algorithm is an iterative procedure for recovering a latent image that 
+	has been blurred by a known point spread function(PSF)
 
 ### Reference: 
 * <http://en.wikipedia.org/wiki/Richardson–Lucy_deconvolution>
