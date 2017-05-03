@@ -3,10 +3,10 @@ Introduction
 This is the solution for the homework1 of ENGG5104-computer vision.
 
 ## Directory
-* [Image compression](#imagecompression)
-* [Richardson-Lucy Deconvolution](#richardson-lucy deconvolution)
-* [Harris Corner Detection](#harris corner detection)
-* [Bilateral Filter](#bilateral filter)
+* [Image compression](#image-compression)
+* [Richardson Lucy Deconvolution](#richardson-lucy-deconvolution)
+* [Harris Corner Detection](#harris-corner-detection)
+* [Bilateral Filter](#bilateral-filter)
 * [Readme](#readme)
 
 ****
