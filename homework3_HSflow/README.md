@@ -37,8 +37,13 @@ In this assignment, we will implement the modern version of `Horn-Schunck method
 ****
 ## **Example result**
 ![Example](./result/result-1.png "result")
-![Example](./result/result-3.png "result")
+<!-- ![Example](./result/result-3.png "result") -->
 
 
 ****
 ## **Reference**
+* [Horn–Schunck method][ref1]
+
+
+----------------------------------------------------------
+[ref1]:https://en.wikipedia.org/wiki/Horn%E2%80%93Schunck_method "ref1"
