@@ -3,15 +3,15 @@ Introduction
 This is the solution for the homework1 of ENGG5104-computer vision.
 
 ## Directory
-* [Image compression](#image compression)
+* [Image compression](#image)
 * [Richardson-Lucy Deconvolution](#richardson-lucy deconvolution)
 * [Harris Corner Detection](#harris corner detection)
 * [Bilateral Filter](#bilateral filter)
 * [Readme](#readm)
 
 ****
-## Image compression
----------------------------------------
+## Image
+<!-- --------------------------------------- -->
 	This is a implement of the JPEG compression function. Image compression schemes aim to decrease 
 	the number of bits used to represent the image.
 
