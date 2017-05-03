@@ -22,12 +22,22 @@ In this assignment, we will implement the modern version of `Horn-Schunck method
 	Build image pyramid;
 	Initialize flow = 0;
 	For I = numPyramidLevel downto 1
-		Initialize 
+		Initialize flow from previous level;
+		Build gradient matrix and Laplacian matrix;
+		For j = 1:maxWarpingNum
+			Warp image using flow vector;
+			Computer image gradient Ix, Iy, and Iz;
+			Build linear system to solve HS flow;
+			Solve linear system to compute the flow;
+			Use median filter to smooth the flow map;
+		EndFor
+	Output: flow
 
 
 ****
 ## **Example result**
-
+![Example](./result/result-1.png "result")
+![Example](./result/result-3.png "result")
 
 
 ****
