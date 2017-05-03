@@ -3,16 +3,17 @@ Introduction
 This is the solution for the homework1 of ENGG5104-computer vision.
 
 ## Directory
-* [Image compression](#Image compression)
-* [Richardson-Lucy Deconvolution](#Richardson-Lucy Deconvolution)
-* [Harris Corner Detection](#Harris Corner Detection)
-* [Bilateral Filter](#Bilateral Filter)
+* [Image compression](## Image compression)
+* [Richardson-Lucy Deconvolution](## Richardson-Lucy Deconvolution)
+* [Harris Corner Detection](## Harris Corner Detection)
+* [Bilateral Filter](## Bilateral Filter)
 
 
 ****
 ## Image compression
 <!-- --------------------------------------- -->
-	This is a implement of the JPEG compression function. Image compression schemes aim to decrease the number of bits used to represent the image.
+	This is a implement of the JPEG compression function. Image compression schemes aim to decrease 
+	the number of bits used to represent the image.
 
 ### Algorithm:
 1. Block splitting: Splitting the image into 8*8 blocks.
