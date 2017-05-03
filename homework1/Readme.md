@@ -10,7 +10,7 @@ This is the solution for the homework1 of ENGG5104-computer vision.
 * [Readme](#readm)
 
 ****
-## Image
+## Image compression
 <!-- --------------------------------------- -->
 	This is a implement of the JPEG compression function. Image compression schemes aim to decrease 
 	the number of bits used to represent the image.
