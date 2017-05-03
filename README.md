@@ -11,12 +11,12 @@ homeword and project of ENGG5104
 
 ****
 ## **Homework1**
-Several basic skills for computer vision, such as compression, corner detection, ...etc
+	Several basic skills for computer vision, such as compression, corner detection, ...etc
 
-###Result:
-Richardson-Lucy Deconvolution Result:
+###Result
+	Richardson-Lucy Deconvolution Result:
 ![Example](./homework1/result/RL-show.PNG "result")
-Harris Corner Detection Result:
+	Harris Corner Detection Result:
 ![Example](./homework1/result/Harris-show.PNG "result")
 
 ****
@@ -25,14 +25,14 @@ SIFT
 
 ****
 ## **Homework3**
-Horn-Schunck Optical Flow Estimation
+	Horn-Schunck Optical Flow Estimation
 
-###Result:
-![Example](./homework3_HS/result/result-1.png "result")
+###Result
+![Example](./homework3/result/result-1.png "result")
 
 ****
 ## **Homework4**
-Pedestrian Detection-with HOG & SVM
+	Pedestrian Detection-with HOG & SVM
 
-###Result:
-![Example](./homework4-Pedestrian Detection/result/PD-show.PNG "result")
+###Result
+![Example](./homework4/result/PD-show.PNG "result")
