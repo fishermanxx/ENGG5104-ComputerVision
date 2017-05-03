@@ -10,7 +10,7 @@ This is the solution for the homework1 of ENGG5104-computer vision.
 * [Readme](#readme)
 
 ****
-## Image compression
+## **Image compression**
 <!-- --------------------------------------- -->
 	This is a implement of the JPEG compression function. Image compression schemes aim to decrease 
 	the number of bits used to represent the image.
@@ -18,8 +18,7 @@ This is the solution for the homework1 of ENGG5104-computer vision.
 ### Algorithm:
 1. Block splitting: Splitting the image into 8*8 blocks.
 2. Discrete cosine transform: Each 8×8 block 𝐹 is converted to a frequency-domain representation 𝐺 (of size 8-by-8), using a normalized, two-dimensional type-II discrete cosine transform (DCT).
-3. Quantization: Using a predefined quantization matrix to control compression ratio. Define Q as the quantization matrix. The quantized DCT coefficient are computed as <br />
-![formular](./misc/showpic/1.png "1.png") <br />
+3. Quantization: Using a predefined quantization matrix to control compression ratio.
 4. Decoding: decode using inverse discrete cosine transform (inverse DCT) from the quantized DCT coefficients $B_{ij}$.
 
 ### Reference: 
@@ -30,19 +29,19 @@ This is the solution for the homework1 of ENGG5104-computer vision.
 ![Example](./result/Compression.png "result")
 
 ****
-## Richardson-Lucy Deconvolution
+## **Richardson-Lucy Deconvolution**
 <!-- --------------------------------------- -->
 
 
 
 ****
-## Harris Corner Detection
+## **Harris Corner Detection**
 <!-- --------------------------------------- -->
 
 
 
 ****
-## Bilateral Filter
+## **Bilateral Filter**
 <!-- --------------------------------------- -->
 
 
