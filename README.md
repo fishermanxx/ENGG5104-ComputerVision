@@ -1,5 +1,5 @@
 # ENGG5104-ComputerVision
-===============================================
+
 
 ## Directory
 * [Homework1-Basic skills](./homework1)
