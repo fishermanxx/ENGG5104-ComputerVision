@@ -7,11 +7,11 @@ This is the solution for the homework1 of ENGG5104-computer vision.
 * [Richardson-Lucy Deconvolution](#richardson-lucy deconvolution)
 * [Harris Corner Detection](#harris corner detection)
 * [Bilateral Filter](#bilateral filter)
-* [Readme](#readme)
+* [Readme](#readm)
 
 ****
 ## Image compression
-<!-- --------------------------------------- -->
+---------------------------------------
 	This is a implement of the JPEG compression function. Image compression schemes aim to decrease 
 	the number of bits used to represent the image.
 
