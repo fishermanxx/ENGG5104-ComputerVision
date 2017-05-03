@@ -38,4 +38,4 @@ Pedestrian detection is a challenging problem in computer vision. One of the typ
 -----------------------------------------------
 [ref1]:http://mccormickml.com/2013/05/09/hog-person-detector-tutorial/ "ref1"
 [ref2]:https://en.wikipedia.org/wiki/Histogram_of_oriented_gradients "ref2"
-[ref2]:http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf "ref3"
+[ref3]:http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf "ref3"
